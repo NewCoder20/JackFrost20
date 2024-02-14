@@ -1,0 +1,19 @@
+body {
+    height: 3000px;
+}
+  
+.X-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial;
+    font-size: 20px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    width: 45px;
+    height: 45px;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+}

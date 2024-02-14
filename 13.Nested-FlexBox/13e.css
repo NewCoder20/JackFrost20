@@ -1,0 +1,67 @@
+div {
+    font-family: Arial;
+    margin: 0;
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    border-color: rgb(231, 230, 230);
+    border-width: 1px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.2);
+    width: 400px;
+}
+
+.header {
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: rgb(150, 150, 150);
+    font-size: 14px;
+}
+
+.message-infos {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+    align-items: center;
+}
+
+.pfp {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin-left: 15px;
+    margin-right: 10px;
+    object-fit: cover;
+}
+
+
+.first-line {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.left-section {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.right-section, .third-line {
+    font-size: 14px;
+    color: rgb(150, 150, 150);
+}
+
+.right-section {
+    padding-right: 0px;
+}
+
+.second-line {
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
