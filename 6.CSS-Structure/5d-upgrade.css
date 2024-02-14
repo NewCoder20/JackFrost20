@@ -1,0 +1,27 @@
+p {
+    font-family: Arial;
+    text-align: center;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.apple {
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.ender {
+    font-size: 14px;
+    margin-top: 20px;
+    color: rgb(80, 120, 198);
+    cursor: pointer;
+}
+
+.ender:hover {
+    text-decoration: underline;
+}

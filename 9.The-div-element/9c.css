@@ -1,0 +1,27 @@
+.service-format {
+    width: 300px;
+    height: 100px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.title {
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.yes-button, .no-button {
+    font-size: 14px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.yes-button {
+    margin-left: 15px;
+}
+
+

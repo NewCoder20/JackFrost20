@@ -1,0 +1,32 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.original-money {
+    font-size: 32px;
+}
+
+.type-money {
+    margin-left: 12px;
+    font-size: 16px;
+    color: grey;
+}
+
+.plus-money {
+    color: green;
+    margin-top: 8px;
+    font-size: 16px;
+}
+
+.after-money {
+    margin-top: 8px;
+    font-size: 16px;
+    color: grey;
+}
+
+.minus-money {
+    font-size: 16px;
+    color: red;
+}

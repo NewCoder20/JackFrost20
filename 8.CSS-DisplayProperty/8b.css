@@ -1,0 +1,19 @@
+.advertisement {
+    font-family: Times New Roman;
+    font-size: 25px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.yes-button {
+    vertical-align: middle;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.no-button {
+    vertical-align: middle;
+    font-size: 25px;
+    margin-left: 3px;
+}

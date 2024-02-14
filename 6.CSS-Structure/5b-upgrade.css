@@ -1,0 +1,16 @@
+p {
+    font-family: Tahoma;
+}
+
+.deal-text {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+.sales-text {
+    margin-top: 20px;
+    color: red;
+    font-size: 20px;
+    font-style: italic;
+}

@@ -1,0 +1,10 @@
+.name-box, .email-box {
+    font-size: 12px;
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-bottom: 2px;
+    width: 120px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    display: block;
+}

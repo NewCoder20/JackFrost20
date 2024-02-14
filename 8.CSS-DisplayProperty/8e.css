@@ -1,0 +1,36 @@
+.title {
+    font-family: Arial;
+    font-size: 40px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.Location, .Go-to {
+    margin-bottom: 10px;
+    display: block;
+    font-size: 16px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    width: 375px;
+    border: none;
+    background-color: rgb(246, 241, 241);
+}
+
+.request-button, .schedule-button {
+    margin-top: 30px;
+    font-size: 16px;
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+}
+
+.request-button {
+    background-color: black;
+    color: white;
+    margin-right: 15px;
+}
+
